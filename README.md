@@ -1,5 +1,4 @@
-# MindvalleyAssignment
-Mindvalley Assessment Test
+# Mindvalley Assessment Test
 
 # Task
 
