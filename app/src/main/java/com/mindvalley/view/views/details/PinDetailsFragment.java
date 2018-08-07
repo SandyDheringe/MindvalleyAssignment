@@ -153,7 +153,7 @@ public class PinDetailsFragment extends Fragment implements PinDetailsView, View
             @Override
             public void onFailure(ServiceContentTypeDownload mDownloadDataType, int statusCode, byte[] errorResponse, Throwable e)
             {
-                imgvwFullView.setImageResource(R.drawable.ic_like);
+                imgvwFullView.setImageResource(R.drawable.no_image);
             }
 
             @Override

@@ -90,7 +90,7 @@ public class PinboardListAdapter extends RecyclerView.Adapter<PinboardListAdapte
             @Override
             public void onFailure(ServiceContentTypeDownload mDownloadDataType, int statusCode, byte[] errorResponse, Throwable e)
             {
-                holder.imgvwThumbnail.setImageResource(R.drawable.ic_like);
+                holder.imgvwThumbnail.setImageResource(R.drawable.no_image);
             }
 
             @Override
